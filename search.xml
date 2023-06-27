@@ -4,6 +4,19 @@
   
     
     <entry>
+      <title>我的第二篇文章</title>
+      <link href="/2023/06/27/%E6%88%91%E7%9A%84%E7%AC%AC%E4%BA%8C%E7%AF%87%E6%96%87%E7%AB%A0/"/>
+      <url>/2023/06/27/%E6%88%91%E7%9A%84%E7%AC%AC%E4%BA%8C%E7%AF%87%E6%96%87%E7%AB%A0/</url>
+      
+        <content type="html"><![CDATA[<p>毕竟，只有一个世界<br>为我们准备了成熟的夏天<br>我们却按成年人的规则<br>继续着孩子的游戏<br>不在乎倒在路旁的人<br>也不在乎搁浅的船</p><p>然而，造福于恋人的阳光<br>也在劳动者的脊背上<br>铺下漆黑而疲倦的夜晚<br>即使在约会的小路上<br>也会有仇人的目光相遇时<br>降落的冰霜</p><p>这不再是一个简单的故事<br>在这个故事中<br>有你和我，还有很多人</p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>我的第一篇文章</title>
       <link href="/2023/06/20/hello-world/"/>
       <url>/2023/06/20/hello-world/</url>
@@ -17,6 +30,17 @@
     
   
   
+    
+    
+    <entry>
+      <title>关于</title>
+      <link href="/about/index.html"/>
+      <url>/about/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
     
     
     <entry>
@@ -45,17 +69,6 @@
       <title>音乐馆</title>
       <link href="/music/index.html"/>
       <url>/music/index.html</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>关于</title>
-      <link href="/about/index.html"/>
-      <url>/about/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
